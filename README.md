@@ -1,4 +1,4 @@
-# 2015, a WebGL experiment
+# WebGL Portfolio
 
 ## Instructions
 
